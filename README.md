@@ -47,13 +47,13 @@ Geliştirdiğim full-stack ve front-end projelerden seçkiler.
 > * Kitap arama, kişisel kütüphane oluşturma ve yorum sistemi.
 > * Admin paneli ile içerik ve kullanıcı yönetimi.
 
-#### 🏛️ [ZonBel Portal - Municipality System](Link-Buraya)
+#### 🏛️ [ZonBel Portal - Municipality System](https://github.com/feyzanuryuksel/ZonBel-Portal)
 > **PHP & SQLite** ile geliştirilmiş belediye yönetim portalı.
 > * Vatandaşlar için şikayet/istek oluşturma modülü.
 > * Haber, duyuru ve galeri yönetimi için dinamik admin paneli.
 > * Rol tabanlı (Admin/User) kimlik doğrulama sistemi.
 
-#### 🧠 [Quiz App - Dynamic Testing Platform](Link-Buraya)
+#### 🧠 [Quest App - Dynamic Testing Platform](https://github.com/feyzanuryuksel/quest-app)
 > **Vanilla JS & PHP** destekli sınav uygulaması.
 > * Dinamik soru havuzu yönetimi (CRUD).
 > * Anlık puanlama ve sınav sonucu analizi.
