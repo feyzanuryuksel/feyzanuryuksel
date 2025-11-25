@@ -63,8 +63,8 @@ Geliştirdiğim full-stack ve front-end projelerden seçkiler.
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=feyzanuryuksel&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzanuryuksel&layout=compact&theme=radical&hide_border=true" height="160" alt="languages" />
 </div>
 
 ---
