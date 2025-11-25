@@ -42,7 +42,7 @@ Sızma testi (Pentest) raporlarım, CTF çözümlerim ve teknik araştırmaları
 
 Geliştirdiğim full-stack ve front-end projelerden seçkiler.
 
-#### 📚 [Libro - Library Management System](Link-Buraya)
+#### 📚 [Library Management System]([Link-Buraya](https://github.com/feyzanuryuksel/Sanal-Kutuphane-YS))
 > **PHP & PostgreSQL** tabanlı kütüphane yönetim sistemi.
 > * Kitap arama, kişisel kütüphane oluşturma ve yorum sistemi.
 > * Admin paneli ile içerik ve kullanıcı yönetimi.
