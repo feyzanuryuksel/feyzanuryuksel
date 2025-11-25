@@ -32,9 +32,9 @@ Sızma testi (Pentest) raporlarım, CTF çözümlerim ve teknik araştırmaları
 | Proje / Rapor | Tür | Açıklama |
 | :--- | :--- | :--- |
 | **[Note4Pentest](https://github.com/feyzanuryuksel/Note4Pentest)** | 🛠️ Tool | Bug Bounty avcıları için otomatik komut seti oluşturucu (Subfinder, Nuclei, FFUF vb. entegrasyonu). |
-| **[Real-World Pentest](https://github.com/feyzanuryuksel/RealWorld-Pentest-Report)** | 📄 Report | Yerel bir restoran uygulamasında tespit edilen IDOR, XSS ve Yetki Yükseltme zafiyetleri analizi. |
-| **[OWASP Juice Shop](https://github.com/feyzanuryuksel/OWASP-Juice-Shop-Writeups)** | 🚩 CTF | OWASP Top 10 zafiyetlerinin (SQLi, XSS, Broken Access Control) uygulamalı sömürü senaryoları. |
-| **[Network & Web Arch.](https://github.com/feyzanuryuksel/Web-Network-Architecture-Research)** | 📚 Research | HTTP/HTTPS, TCP/IP, DNS güvenliği ve modern web mimarisi üzerine teknik analizler. |
+| **[Real-World Pentest](https://github.com/feyzanuryuksel/Cyber-Security-Portfolio/blob/main/CTF-and-Labs/Restoran_App_Pentest_Report.pdf)** | 📄 Report | Yerel bir restoran uygulamasında tespit edilen IDOR, XSS ve Yetki Yükseltme zafiyetleri analizi. |
+| **[OWASP Juice Shop](https://github.com/feyzanuryuksel/Cyber-Security-Portfolio/blob/main/CTF-and-Labs/OWASP_Juice_Shop_Writeup.pdf)** | 🚩 CTF | OWASP Top 10 zafiyetlerinin (SQLi, XSS, Broken Access Control) uygulamalı sömürü senaryoları. |
+| **[Network & Web Arch.](https://github.com/feyzanuryuksel/Cyber-Security-Portfolio/blob/main/Research/Network_Infrastructure_Research.pdf)** | 📚 Research | HTTP/HTTPS, TCP/IP, DNS güvenliği ve modern web mimarisi üzerine teknik analizler. |
 
 ---
 
