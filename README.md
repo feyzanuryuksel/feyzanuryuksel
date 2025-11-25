@@ -1,6 +1,6 @@
 # Hi there, I'm Feyzanur 👋
 
-**Computer Engineering Student & Cyber Security Enthusiast**
+**Computer Engineering Student & Cyber Security Researcher**
 
 Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Web teknolojileri ve siber güvenlik alanlarında kendimi geliştiriyorum. Teorik bilgimi pratik projelerle desteklemeyi, güvenli kod yazmayı ve sistem zafiyetlerini analiz etmeyi seviyorum.
 
